@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>riddhi is a sae trainee</title>
+</head>
+<h1>projects</h1>
+<p style="color:red;"font-size:120%;>light blinking,making id on github and portfolio</p>
+<img src=""></img>
+</body>
+</html>
