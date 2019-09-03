@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>riddhi portpholio</title>
+</head>
+<body style="background-color:maroon;">
+<h1 style="color:yellow;"align="center"> PORTPHOLIO</h1>
+<HR>
+<p style="font-color:yellow;">
+<a href="">SKILLS</a><BR>
+<a href="">ABOUT ME</a><br>
+<a href="">CONTACT ME</a><br>
+<img src=""></img>
+</body>
+</html>
