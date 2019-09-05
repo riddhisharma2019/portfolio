@@ -1,0 +1,59 @@
+<html>
+<head>
+<title>Riddhi's portfolio</title>
+</head>
+<body bgcolor="maroon">
+<marquee><p> HELLO.<br>i am student of akgec and i pursuing betech in EN branch.</marquee></p>
+<h1 style="color:red;"align="center";font-size:400%>PORTFOLIO</h1>
+<h2 style="color:yellow;"align="center";font-size:1000%;>WELCOME to my website..</h2>
+<h2 style  =align="center"><img src="riddhi.jpg" style="width:200px;height:300px";align="center "></img></h2>
+<p style="color:red";font-size:500%;>
+<a href="">SKILLS</a><br>
+<a href="about.html">ABOUT ME</a><br>
+<a href="contact.html">CONTACT ME</a></p>
+<HR>
+<p style="color:yellow;"align="center">"Our greatest weakness lies in giving up.the most cetain way to succeed is always to try just one more time.
+the challenge of life,Ihave found is to build a resume that doesn't simply tell a story about what you want to be but its a story about who you want to be."</p>
+<h2 style="color:blue;"align="center"font-size:100px>CAREER GOALS</h2>
+<p style="color:yellow;"font-size:76%>To getting a job in a MNC company.and more to explore</p>
+<h2 style="color:blue;"align="center">SAMPLES OF WORK</h2>
+<p style="color:yellow;"font-size:76%>Do the mini projects on Boost converter by using "MOSFET".</p>
+<h2 style="color:blue;"align="center";font-size:300%>STRENGTHS</h2>
+<p style="color:red;"font-size:306%><ul>
+<li>Taking initiative</li>
+<li>flexibility</li>
+<li>never give up</li></ul>
+</p>
+<h2 style="color:blue;"align="center">WEAKNESSES</h2>
+<p style="color:black;"font-size:76%><ul>
+<li>creative thinking</li>
+<li>sensitive</li>
+<li>awareness</li></ul>
+</p>
+<table border="5" bordercolor="yellow" height="50%"width="50%"align="center">
+<thead>ACADEMIC DETAILS:</thead>
+<tr><td>
+<th>NAME</th></td>
+<td>Riddhi sharma</td></tr>
+<tr>
+<td>
+<th>YEAR</th></td>
+<td>2nd year</td>
+</tr>
+<tr>
+<td>
+<th>BRANCH</th></td>
+<td>EN</td>
+</tr>
+<tr><td>
+<th>10th %age</th></td><td>85%</td>
+</tr>
+<tr>
+<td>
+<th>12th%age</th></td>
+<td>80%</td>
+</tr>
+</table>
+<img src=""></img>
+</body>
+</html>
