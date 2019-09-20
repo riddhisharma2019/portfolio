@@ -1,11 +1,7 @@
-num=-3
+course='python for beginners'
+print(course[1:-2])
+print(course[:])
 
-
-if( num>0):
-    print("num is positive")
-else:
-    print("num is negative")
-    print("hello riddhi")
     
 
 
