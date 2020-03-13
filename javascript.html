@@ -1,0 +1,39 @@
+<html>
+<head>
+</title></title>
+</head>
+<body>
+<p id="text">hello world!</p>
+<button id="my button">change text</button>
+<p id="secondparagraph">javascript is...........</p>
+<button id="secondbutton">append text</button>
+<p id="emptyparagraph"></p>
+<button id="createParagraph">create text</button>
+<p id="moretext">this is some text</p>
+<button id="styleText">style Text</button>
+<script type="text/javascript">
+
+document.getElementById("my button").onclick=function(){
+document.getElementById("text").innerHTML="hello riddhi!";
+
+}
+
+document.getElementById("secondbutton").onclick=function(){
+document.getElementById("secondparagraph").innerHTML="I think "+document.getElementById("secondparagraph").innerHTML+"awesome!";
+
+}
+document.getElementById("createParagraph").onclick =function() {
+
+document.getElementById("emptyparagraph").innerHTML="<h1>rocking roll!</h1>";
+
+
+}
+document.getElementById("styleText").onclick=function(){
+ document.getElementById("moretext").style.fontSize ="50px";
+}
+
+
+
+</script>
+</body>
+</html>
